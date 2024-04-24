@@ -1,6 +1,7 @@
 # Project Title
 
-Brief description of the project.
+This project is a Node.js application for fetching data from the Dash Hudson API and generating a CSV file based on the retrieved data. It utilizes environment variables for authentication and configuration. The application fetches media data from Dash Hudson API, extracts relevant information such as media ID, URL, and engagement predictions, and writes this data into a CSV file. The CSV file can be used for further analysis or reporting purposes.
+
 
 ## Table of Contents
 
@@ -34,8 +35,6 @@ BRAND_ID=your_brand_id_here
 Please refer to this [public doc](https://developer.dashhudson.com/docs/quickstart) for how to generate bearer token and where to find the brand ID in Dash Hudson. Replace `your_bearer_token_here` and `your_brand_id_here` with your actual values.
 
 ### Running the Code
-
-Describe how to use the project, including any required configurations and examples. If applicable, include instructions on how to run the code:
 
 ```sh
 node app.js
