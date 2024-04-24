@@ -5,8 +5,15 @@ This project is a Node.js application for fetching data from the Dash Hudson API
 
 ## Table of Contents
 
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+
+## Prerequisites
+
+Before running this project, ensure that you have the following installed:
+
+- Node.js: [Download and Install Node.js](https://nodejs.org/)
 
 ## Installation
 
