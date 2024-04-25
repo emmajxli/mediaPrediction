@@ -36,7 +36,7 @@ npm install
 1. Create a `.env` file in the root directory of the project.
 2. Add your environment variables to the `.env` file:
 ```sh
-BEARER_TOKEN=your_bearer_token_here
+BEARER_TOKEN='your_bearer_token_here'
 BRAND_ID=your_brand_id_here
 ```
 Please refer to this [public doc](https://developer.dashhudson.com/docs/quickstart) for how to generate bearer token and where to find the brand ID in Dash Hudson. Replace `your_bearer_token_here` and `your_brand_id_here` with your actual values.
